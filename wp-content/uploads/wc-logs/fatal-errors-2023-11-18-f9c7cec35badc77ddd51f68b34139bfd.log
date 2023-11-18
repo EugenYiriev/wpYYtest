@@ -1,0 +1,40 @@
+2023-11-18T11:51:36+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/index.php:8
+Stack trace:
+#0 /opt/lampp/htdocs/wptest/wp-includes/template-loader.php(106): include()
+#1 /opt/lampp/htdocs/wptest/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/wptest/index.php(17): require('/opt/lampp/htdo...')
+#3 {main}
+  thrown in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/index.php on line 8
+
+2023-11-18T11:51:40+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/index.php:8
+Stack trace:
+#0 /opt/lampp/htdocs/wptest/wp-includes/template-loader.php(106): include()
+#1 /opt/lampp/htdocs/wptest/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/wptest/index.php(17): require('/opt/lampp/htdo...')
+#3 {main}
+  thrown in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/index.php on line 8
+
+2023-11-18T11:51:44+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/index.php:8
+Stack trace:
+#0 /opt/lampp/htdocs/wptest/wp-includes/template-loader.php(106): include()
+#1 /opt/lampp/htdocs/wptest/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/wptest/index.php(17): require('/opt/lampp/htdo...')
+#3 {main}
+  thrown in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/index.php on line 8
+
+2023-11-18T14:15:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in /opt/lampp/htdocs/wptest/wp-includes/class-wp-hook.php on line 144
+
+2023-11-18T14:15:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in /opt/lampp/htdocs/wptest/wp-includes/class-wp-hook.php on line 144
+
+2023-11-18T16:03:28+00:00 CRITICAL Cannot redeclare enqueue_scripts() (previously declared in /opt/lampp/htdocs/wptest/wp-content/plugins/shortCodeProducts/index.php:14) in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/functions.php on line 9
+
+2023-11-18T16:03:32+00:00 CRITICAL Cannot redeclare enqueue_scripts() (previously declared in /opt/lampp/htdocs/wptest/wp-content/plugins/shortCodeProducts/index.php:14) in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/functions.php on line 9
+
+2023-11-18T16:03:43+00:00 CRITICAL Cannot redeclare enqueue_scripts() (previously declared in /opt/lampp/htdocs/wptest/wp-content/plugins/shortCodeProducts/index.php:14) in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/functions.php on line 9
+
+2023-11-18T16:34:08+00:00 CRITICAL Cannot redeclare enqueue_scripts() (previously declared in /opt/lampp/htdocs/wptest/wp-content/plugins/shortCodeProducts/index.php:13) in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/functions.php on line 9
+
+2023-11-18T16:34:30+00:00 CRITICAL Cannot redeclare enqueue_scripts() (previously declared in /opt/lampp/htdocs/wptest/wp-content/plugins/shortCodeProducts/index.php:14) in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/functions.php on line 9
+
+2023-11-18T16:34:35+00:00 CRITICAL Cannot redeclare enqueue_scripts() (previously declared in /opt/lampp/htdocs/wptest/wp-content/plugins/shortCodeProducts/index.php:12) in /opt/lampp/htdocs/wptest/wp-content/themes/yy-themes/functions.php on line 9
+
